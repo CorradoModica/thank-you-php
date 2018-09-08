@@ -41,7 +41,7 @@ Signed,
 - David Jor Hpan ([@david-gnext](https://github.com/david-gnext)), Yangon , Myanmar
 - Abdullah Ramzan ([@abdullah1908](https://github.com/abdullah1908)), WP Expert, Lahore Pakistan
 - Ahmad Moussawi ([@ahmad-moussawi](https://github.com/ahmad-moussawi)), PHP and C# Web Developer, Beirut Lebanon
-- Corrado Modica ([@Corrado](https://github.com/CorradoModica)), Full Stack Developer, Italy
+- Corrado Modica ([@Corrado](https://github.com/CorradoModica)), PHP Developer, Italy
 - Vigikaran Vijayaratnam ([@vigikaran](https://github.com/vigikaran)), Full Stack Web Application developer / DevOps
 - Ali Nabeel Ahmed ([@alinabeel](https://github.com/alinabeel)), Backend Developer, Lahore Pakistan
 - Hendrik Eduard Kuiper ([@HendrikEduard](https://github.com/HendrikEduard)) Systems & DB Admin, Programmer and a whole lot more!
